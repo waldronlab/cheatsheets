@@ -7,3 +7,8 @@ we've been working on.
 
 [MultiAssayExperiment](https://docs.google.com/spreadsheets/d/1lfHq8EfO-Lxqtyj0ocV7gQET43t1366qZnDhombR91Y/edit?usp=sharing)
 
+## Convert PDF to PNG
+
+```
+convert -density 600 MultiAssayExperiment_QuickRef.pdf -quality 100 MultiAssayExperiment_QuickRef.png
+```
