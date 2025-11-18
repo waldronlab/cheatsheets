@@ -10,5 +10,5 @@ we've been working on.
 ## Convert PDF to PNG
 
 ```
-convert -density 600 MultiAssayExperiment_QuickRef.pdf -quality 100 MultiAssayExperiment_QuickRef.png
+convert -density 600 MultiAssayExperiment_QuickRef.pdf -quality 100 ./pngs/MultiAssayExperiment_QuickRef.png
 ```
